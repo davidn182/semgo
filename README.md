@@ -1,2 +1,2 @@
 # semgo
-Seismic monitoring of goethermal operations
+Seismic monitoring of geothermal operations
