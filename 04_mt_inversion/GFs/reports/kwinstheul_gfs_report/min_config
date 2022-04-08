@@ -1,0 +1,55 @@
+--- !gft.GreensFunctionTest  # this line is a must
+
+# needs to point to the main directory of the Green's function store
+store_dir: /Volumes/Expansion/kwinstheul/04_mt_inversion/GFs/gf_stores/kwinstheul_gfs
+
+# optional: these will base the applied filters on the sampling rate
+# of the store
+rel_lowpass_frequency: 0.125
+rel_highpass_frequency: 0.25
+
+# optional: these will set the absolute frequencys of the applied filters
+# if neither are set, then the seismograms will not be filtered
+# only one option can be used for low/highpass frequency, so if absolute
+# frequencies are desried, comment/delete the above and uncomment those below
+# lowpass_frequency: 0.0014
+# highpass_frequency: 0.0018
+
+# a section for the source objects to be used when creating seismograms
+sources:
+
+  # <name>: <type>, the specific source objects to be used, where the names
+  # have to be unique (see pyrocko for available source objects
+  # :py:class:`pyrocko.gf.seismosizer.Source`)
+  source1: !pf.DCSource
+    depth: 3600
+    strike: -90.0
+    dip: 90.0
+    rake: -90.0
+    magnitude: 0.2
+
+# a section for the sensor array objects to be used when creating seismograms
+sensors:
+
+  # <name>: !gft.SensorArray, where the name has to be unique
+  sensors1: !gft.SensorArray
+    depth: 0.0
+
+    # these are the codes for the type of sensors (pyrocko.gf.Target objects)
+    codes: ['', KWI, '', R]
+
+    # this is the direction [deg] in which the sensor monitors
+    azimuth: 0.0
+
+    # this the dip [deg] of the sensor
+    dip: 0.0
+
+    # minimum/maximum distances [m] for the sensorys to be array at
+    distance_min: 100.0
+    distance_max: 1000.0
+
+    # the direction [deg] along which the sensors will be arrayed
+    strike: 145.0
+
+    # amount of sensors per array
+    sensor_count: 10

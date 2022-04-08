@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FDSNStationXML xmlns="http://www.fdsn.org/xml/station/1" schemaVersion="1.1">
+  <Source>TU Delft</Source>
+  <Module>ObsPy 1.2.2</Module>
+  <ModuleURI>https://www.obspy.org</ModuleURI>
+  <Created>2022-02-07T23:57:28.187987Z</Created>
+  <Network code="KW" startDate="2019-06-21T00:00:00.000000Z">
+    <Description>Kwinstheul Netherlands.</Description>
+    <Station code="KW01" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.290401545</Latitude>
+      <Longitude unit="DEGREES">52.00707319</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.290401545</Latitude>
+        <Longitude unit="DEGREES">52.00707319</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.290401545</Latitude>
+        <Longitude unit="DEGREES">52.00707319</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.290401545</Latitude>
+        <Longitude unit="DEGREES">52.00707319</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW02" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.288602592</Latitude>
+      <Longitude unit="DEGREES">52.00784817</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.288602592</Latitude>
+        <Longitude unit="DEGREES">52.00784817</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.288602592</Latitude>
+        <Longitude unit="DEGREES">52.00784817</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.288602592</Latitude>
+        <Longitude unit="DEGREES">52.00784817</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW03" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.286875374</Latitude>
+      <Longitude unit="DEGREES">52.00858637</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.286875374</Latitude>
+        <Longitude unit="DEGREES">52.00858637</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.286875374</Latitude>
+        <Longitude unit="DEGREES">52.00858637</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.286875374</Latitude>
+        <Longitude unit="DEGREES">52.00858637</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW04" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.285032344</Latitude>
+      <Longitude unit="DEGREES">52.00935279</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.285032344</Latitude>
+        <Longitude unit="DEGREES">52.00935279</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.285032344</Latitude>
+        <Longitude unit="DEGREES">52.00935279</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.285032344</Latitude>
+        <Longitude unit="DEGREES">52.00935279</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW05" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.283160119</Latitude>
+      <Longitude unit="DEGREES">52.01011949</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.283160119</Latitude>
+        <Longitude unit="DEGREES">52.01011949</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.283160119</Latitude>
+        <Longitude unit="DEGREES">52.01011949</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.283160119</Latitude>
+        <Longitude unit="DEGREES">52.01011949</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW06" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.281389023</Latitude>
+      <Longitude unit="DEGREES">52.01085809</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.281389023</Latitude>
+        <Longitude unit="DEGREES">52.01085809</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.281389023</Latitude>
+        <Longitude unit="DEGREES">52.01085809</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.281389023</Latitude>
+        <Longitude unit="DEGREES">52.01085809</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW07" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.279661313</Latitude>
+      <Longitude unit="DEGREES">52.0115872</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.279661313</Latitude>
+        <Longitude unit="DEGREES">52.0115872</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.279661313</Latitude>
+        <Longitude unit="DEGREES">52.0115872</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.279661313</Latitude>
+        <Longitude unit="DEGREES">52.0115872</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW08" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.277890102</Latitude>
+      <Longitude unit="DEGREES">52.01232575</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.277890102</Latitude>
+        <Longitude unit="DEGREES">52.01232575</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.277890102</Latitude>
+        <Longitude unit="DEGREES">52.01232575</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.277890102</Latitude>
+        <Longitude unit="DEGREES">52.01232575</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW09" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.276104521</Latitude>
+      <Longitude unit="DEGREES">52.01307342</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.276104521</Latitude>
+        <Longitude unit="DEGREES">52.01307342</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.276104521</Latitude>
+        <Longitude unit="DEGREES">52.01307342</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.276104521</Latitude>
+        <Longitude unit="DEGREES">52.01307342</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW10" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.274246553</Latitude>
+      <Longitude unit="DEGREES">52.01383982</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.274246553</Latitude>
+        <Longitude unit="DEGREES">52.01383982</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.274246553</Latitude>
+        <Longitude unit="DEGREES">52.01383982</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.274246553</Latitude>
+        <Longitude unit="DEGREES">52.01383982</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW11" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.272417402</Latitude>
+      <Longitude unit="DEGREES">52.0145969</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.272417402</Latitude>
+        <Longitude unit="DEGREES">52.0145969</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.272417402</Latitude>
+        <Longitude unit="DEGREES">52.0145969</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.272417402</Latitude>
+        <Longitude unit="DEGREES">52.0145969</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW12" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270617325</Latitude>
+      <Longitude unit="DEGREES">52.01535363</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270617325</Latitude>
+        <Longitude unit="DEGREES">52.01535363</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270617325</Latitude>
+        <Longitude unit="DEGREES">52.01535363</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270617325</Latitude>
+        <Longitude unit="DEGREES">52.01535363</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW13" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.268846578</Latitude>
+      <Longitude unit="DEGREES">52.01611901</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.268846578</Latitude>
+        <Longitude unit="DEGREES">52.01611901</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.268846578</Latitude>
+        <Longitude unit="DEGREES">52.01611901</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.268846578</Latitude>
+        <Longitude unit="DEGREES">52.01611901</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW14" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270492729</Latitude>
+      <Longitude unit="DEGREES">52.01661378</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270492729</Latitude>
+        <Longitude unit="DEGREES">52.01661378</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270492729</Latitude>
+        <Longitude unit="DEGREES">52.01661378</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270492729</Latitude>
+        <Longitude unit="DEGREES">52.01661378</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW15" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270416846</Latitude>
+      <Longitude unit="DEGREES">52.01393514</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270416846</Latitude>
+        <Longitude unit="DEGREES">52.01393514</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270416846</Latitude>
+        <Longitude unit="DEGREES">52.01393514</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270416846</Latitude>
+        <Longitude unit="DEGREES">52.01393514</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW16" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270335718</Latitude>
+      <Longitude unit="DEGREES">52.01261427</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270335718</Latitude>
+        <Longitude unit="DEGREES">52.01261427</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270335718</Latitude>
+        <Longitude unit="DEGREES">52.01261427</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270335718</Latitude>
+        <Longitude unit="DEGREES">52.01261427</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW17" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270313115</Latitude>
+      <Longitude unit="DEGREES">52.01130175</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270313115</Latitude>
+        <Longitude unit="DEGREES">52.01130175</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270313115</Latitude>
+        <Longitude unit="DEGREES">52.01130175</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270313115</Latitude>
+        <Longitude unit="DEGREES">52.01130175</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW18" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270266219</Latitude>
+      <Longitude unit="DEGREES">52.01016034</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270266219</Latitude>
+        <Longitude unit="DEGREES">52.01016034</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270266219</Latitude>
+        <Longitude unit="DEGREES">52.01016034</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270266219</Latitude>
+        <Longitude unit="DEGREES">52.01016034</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW19" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270222692</Latitude>
+      <Longitude unit="DEGREES">52.00862327</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270222692</Latitude>
+        <Longitude unit="DEGREES">52.00862327</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270222692</Latitude>
+        <Longitude unit="DEGREES">52.00862327</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270222692</Latitude>
+        <Longitude unit="DEGREES">52.00862327</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW20" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270169948</Latitude>
+      <Longitude unit="DEGREES">52.00727512</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270169948</Latitude>
+        <Longitude unit="DEGREES">52.00727512</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270169948</Latitude>
+        <Longitude unit="DEGREES">52.00727512</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270169948</Latitude>
+        <Longitude unit="DEGREES">52.00727512</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW21" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270079545</Latitude>
+      <Longitude unit="DEGREES">52.00459663</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270079545</Latitude>
+        <Longitude unit="DEGREES">52.00459663</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270079545</Latitude>
+        <Longitude unit="DEGREES">52.00459663</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270079545</Latitude>
+        <Longitude unit="DEGREES">52.00459663</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW22" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.27004214</Latitude>
+      <Longitude unit="DEGREES">52.00327528</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.27004214</Latitude>
+        <Longitude unit="DEGREES">52.00327528</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.27004214</Latitude>
+        <Longitude unit="DEGREES">52.00327528</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.27004214</Latitude>
+        <Longitude unit="DEGREES">52.00327528</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW23" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.270003211</Latitude>
+      <Longitude unit="DEGREES">52.00190001</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.270003211</Latitude>
+        <Longitude unit="DEGREES">52.00190001</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.270003211</Latitude>
+        <Longitude unit="DEGREES">52.00190001</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.270003211</Latitude>
+        <Longitude unit="DEGREES">52.00190001</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW24" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.269978594</Latitude>
+      <Longitude unit="DEGREES">52.00051558</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.269978594</Latitude>
+        <Longitude unit="DEGREES">52.00051558</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.269978594</Latitude>
+        <Longitude unit="DEGREES">52.00051558</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.269978594</Latitude>
+        <Longitude unit="DEGREES">52.00051558</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW25" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.288630232</Latitude>
+      <Longitude unit="DEGREES">52.00627436</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.288630232</Latitude>
+        <Longitude unit="DEGREES">52.00627436</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.288630232</Latitude>
+        <Longitude unit="DEGREES">52.00627436</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.288630232</Latitude>
+        <Longitude unit="DEGREES">52.00627436</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW26" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.286786812</Latitude>
+      <Longitude unit="DEGREES">52.00702282</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.286786812</Latitude>
+        <Longitude unit="DEGREES">52.00702282</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.286786812</Latitude>
+        <Longitude unit="DEGREES">52.00702282</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.286786812</Latitude>
+        <Longitude unit="DEGREES">52.00702282</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW27" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.28075149</Latitude>
+      <Longitude unit="DEGREES">51.9900587</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.28075149</Latitude>
+        <Longitude unit="DEGREES">51.9900587</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.28075149</Latitude>
+        <Longitude unit="DEGREES">51.9900587</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.28075149</Latitude>
+        <Longitude unit="DEGREES">51.9900587</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW28" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.235944197</Latitude>
+      <Longitude unit="DEGREES">52.00616462</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.235944197</Latitude>
+        <Longitude unit="DEGREES">52.00616462</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.235944197</Latitude>
+        <Longitude unit="DEGREES">52.00616462</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.235944197</Latitude>
+        <Longitude unit="DEGREES">52.00616462</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW29" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.260822906</Latitude>
+      <Longitude unit="DEGREES">52.0272107</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.260822906</Latitude>
+        <Longitude unit="DEGREES">52.0272107</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.260822906</Latitude>
+        <Longitude unit="DEGREES">52.0272107</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.260822906</Latitude>
+        <Longitude unit="DEGREES">52.0272107</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+    <Station code="KW30" startDate="2019-06-21T00:00:00.000000Z" endDate="2019-11-08T00:00:00.000000Z">
+      <Latitude unit="DEGREES">4.31027254</Latitude>
+      <Longitude unit="DEGREES">52.00350897</Longitude>
+      <Elevation unit="METERS">0.0</Elevation>
+      <Site>
+        <Name>Kwinstheul</Name>
+        <Town>Kwinstheul</Town>
+        <Region>South Holland</Region>
+        <Country>Netherlands</Country>
+      </Site>
+      <CreationDate>2022-02-07T00:00:00.000000Z</CreationDate>
+      <Channel code="BHE" locationCode="">
+        <Latitude unit="DEGREES">4.31027254</Latitude>
+        <Longitude unit="DEGREES">52.00350897</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">90.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHN" locationCode="">
+        <Latitude unit="DEGREES">4.31027254</Latitude>
+        <Longitude unit="DEGREES">52.00350897</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">0.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+      <Channel code="BHZ" locationCode="">
+        <Latitude unit="DEGREES">4.31027254</Latitude>
+        <Longitude unit="DEGREES">52.00350897</Longitude>
+        <Elevation unit="METERS">0.0</Elevation>
+        <Depth unit="METERS">0.0</Depth>
+        <Azimuth unit="DEGREES">0.0</Azimuth>
+        <Dip unit="DEGREES">-90.0</Dip>
+        <SampleRate>250.0</SampleRate>
+      </Channel>
+    </Station>
+  </Network>
+</FDSNStationXML>

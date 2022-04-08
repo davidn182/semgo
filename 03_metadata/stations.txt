@@ -1,0 +1,120 @@
+KW.01. 4.290401545	52.00707319 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.02. 4.288602592	52.00784817  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.03. 4.286875374	52.00858637  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.04. 4.285032344	52.00935279  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.05. 4.283160119	52.01011949  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.06. 4.281389023	52.01085809  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.07. 4.279661313	52.0115872  0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.08. 4.277890102	52.01232575 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.09.  4.276104521	52.01307342 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.10.  4.274246553	52.01383982 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.11.  4.272417402	52.0145969 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.12.  4.270617325	52.01535363 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.13.  4.268846578	52.01611901 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.14.  4.270492729	52.01661378 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.15.  4.270416846	52.01393514 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.16.  4.270335718	52.01261427 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.17.  4.270313115	52.01130175 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.18.  4.270266219	52.01016034 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.19.  4.270222692	52.00862327 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.20.  4.270169948	52.00727512 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.21.  4.270079545	52.00459663 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.22.  4.27004214	52.00327528 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.23.  4.270003211	52.00190001 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.24.  4.269978594	52.00051558 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.25.  4.288630232	52.00627436 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.26.  4.286786812	52.00702282 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.27.  4.28075149	51.9900587 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.28.  4.235944197	52.00616462 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.29.  4.260822906	52.0272107 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1
+KW.30.  4.31027254	52.00350897 0.0 0.0 Kwinstheul, Netherlands
+  BHE    90     0     1
+  BHN     0     0     1
+  BHZ     0   -90     1

@@ -1,0 +1,16 @@
+#!/bin/bash
+#for i in {4..5}
+i=25
+    #do
+    sta=$(printf "%02d" $i)
+    echo "Station" $sta
+    for j in {173..312}
+    do 
+	#j=244
+	echo "day" $j
+        # Uncomment when rsync not needed.
+        cp /Volumes/Expansion/kwinstheul/TOSHIBA_1TB/04_data_converted/"$sta"/202*/0"$sta"_EH*_"$j"_*.mseed /Volumes/Expansion/kwinstheul/02_data_converted/2019/KW"$sta"/"$j"
+	#cp /Volumes/kwintsheul/raw_data/04_converted_data/"$sta"/202*/0"$sta"_EH*_"$j"_*.mseed /Volumes/Expansion/kwinstheul/02_data_converted/2019/KW"$sta"/"$j"/
+	
+    done
+#done

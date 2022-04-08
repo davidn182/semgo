@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<q:quakeml xmlns="http://quakeml.org/xmlns/bed/1.2" xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns:edb="http://erdbeben-in-bayern.de/xmlns/0.1">
+  <eventParameters publicID="smi:local/ee9e5fa1-f8d9-4a0a-a13c-ac777999bb29">
+    <creationInfo>
+      <creationTime>2022-02-08T00:52:44.920032Z</creationTime>
+      <version>ObsPyck 0.8.1, ObsPy 1.2.2</version>
+    </creationInfo>
+    <event publicID="smi:local/68f140ad-25b4-49c8-94a4-930042d04f86">
+      <type>not existing</type>
+      <creationInfo>
+        <agencyID>TU Delft (d.f.naranjohernandez@tudelft.nl)</agencyID>
+        <author>obspy.org</author>
+        <version>1.1.0</version>
+      </creationInfo>
+      <origin publicID="smi:local/ad22076d-3965-4cd8-92a3-2f7f51fb1b3a">
+        <time>
+          <value>2019-07-14T08:48:30.000000Z</value>
+        </time>
+        <latitude>
+          <value>4.2878</value>
+        </latitude>
+        <longitude>
+          <value>52.0068</value>
+        </longitude>
+        <depth>
+          <value>2.46</value>
+        </depth>
+        <depthType>operator assigned</depthType>
+      </origin>
+      <magnitude publicID="smi:local/9928ebd1-f6dd-46b2-af04-572f81e0f4a5">
+        <mag>
+          <value>0.16</value>
+        </mag>
+        <type>Md</type>
+      </magnitude>
+      <edb:evaluationMode>manual</edb:evaluationMode>
+      <edb:public>false</edb:public>
+    </event>
+  </eventParameters>
+</q:quakeml>
